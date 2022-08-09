@@ -1,7 +1,8 @@
 # Data-Science
 ##### En esta carpeta incluyo los desafíos entregables del Bootcamp de Coderhouse de Data Science.
 ##### Es el proceso que tuvimos en evolución y utilización de librerías dentro del curso.
-##### *Tambien agrego el link parcial del proyecto final, que está cursando su 3a entrega.*
+
+# *Tambien agrego el link parcial del proyecto final, que está cursando su 3a entrega.*
 
 ##### Link a Rar, que contiene el Notebook y las impagenes del proyecto: https://drive.google.com/file/d/1l7AGaS5v873iRgQvTMSLUm9-l6hhCmQO/view?usp=sharing
 ##### Link a fuente de datos del proyecto: https://drive.google.com/file/d/1YKi-ypPoPVWpNaziAu1Bj_XZWzJMjXUP/view?usp=sharing
